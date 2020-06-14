@@ -1,6 +1,6 @@
 # TP2
 
-**Léo Leplat**<br />
+****<br />
 *le 14/06/2020*<br /><br />
 
 ## Introduction
