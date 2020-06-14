@@ -11,7 +11,7 @@ Le but de ce TP est d'améliorer l'application de to-do liste en récupérant le
 
 ### Hiérarchie du projet
 Voici la hiérarchie du projet des fichiers sources :<br />
-![hierarchie](images/Screenshot from 2020-06-14 15-02-15.png)
+<img src="images/Screenshot from 2020-06-14 15-02-15.png" alt="mainActivity" height="400" />
 
 Par rapport à la précédente version de l'application, le package `api` a été créé. Il contient l'interface *ServiceAPI* qui s'occupe des requêtes vers l'API. Un package `model` contient également les classes de données servant à lire les réponses des requêtes.<br />
 Il y a également eu la création de l'objet *DataProvider* qui fait le lien le programme et l'interface *ServiceAPI*, ainsi que la classe *MyApp* qui permet de récupérer le contexte de l'application n'importe où dans le code.<br />
