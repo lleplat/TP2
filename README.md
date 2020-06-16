@@ -1,6 +1,6 @@
 # TP2
 
-****<br />
+**Noémie PHAN / Léo LEPLAT**<br />
 *le 14/06/2020*<br /><br />
 
 ## Introduction
